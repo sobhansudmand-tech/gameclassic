@@ -1,2 +1,2 @@
-# GameClassic
+# gameclassic
 Classic browser games
